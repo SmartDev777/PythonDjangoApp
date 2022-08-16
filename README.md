@@ -9,12 +9,13 @@ download and install python
 check path
 https://docs.djangoproject.com/en/4.1/intro/tutorial01/
 
-## 1 - pip install django
+## Install Django Framework
+1 - pip install django
 
-##for version check of django
+## for version check of django
 2 -  python -m django --version
 
-##for making django project
+## for making django project
 3- django-admin startproject projectkaname
 
 ## Run App 
